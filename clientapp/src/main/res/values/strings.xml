@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">clientApp</string>
+    <string name="icon_github">icon github</string>
+
+    <!--    text untuk splash screen-->
+    <string name="txt_sc">Github Account</string>
+
+    <!--    note searching-->
+    <string name="searching">Searching</string>
+    <string name="search_name">Input Name</string>
+
+    <!--    note tab-->
+    <string name="followers">Followers (%d)</string>
+    <string name="followings">Followings (%d)</string>
+
+    <!--    note menu-->
+    <string name="language">Language</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="favorites">Favorite</string>
+
+    <!--    note favorit-->
+    <string name="not_favorite">Not found favorite</string>
+    <string name="remove_successful">Remove from Favorite</string>
+
+    <!--    note reminder-->
+    <string name="reminder">Reminder</string>
+    <string name="reminder_txt">let\'s find great github user</string>
+    <string name="switch_reminder_app">switch turn on reminder</string>
+
+    <!--    note button-->
+    <string name="tb_ad_favorite">Add to Favorite</string>
+    <string name="btn_remove_account">Remove Account</string>
+    <string name="btn_ask_remove">Remove from Favorite?</string>
+    <string name="btn_do">Do</string>
+    <string name="btn_dont_do">Don\'t do</string>
+
+    <!--    note  account-->
+    <string name="name">Name</string>
+    <string name="url_github">Github Url</string>
+    <string name="repository_person">Repository (%d)</string>
+    <string name="companies">Companies</string>
+    <string name="location_city">location</string>
+    <string name="blogger">Blogger</string>
+
+    <string name="account_not">Account Not Found</string>
+    <string name="account_github">Account Github</string>
+
+    <string name="unknown">data unknown</string>
+
+</resources>

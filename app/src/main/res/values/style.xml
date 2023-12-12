@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema aplikasi dasar. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Sesuaikan tema Anda di sini. -->
+
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="colorPrimaryDark">@color/color_PrimaryDark</item>
+</style>
+
+    <style name="ToolBarWithNavigationBack">
+        <item name="navigationIcon" tools:ignore="PrivateResource">@drawable/abc_ic_ab_back_material</item>
+    </style>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projek3</string>
+    <string name="icon_github">Ikon github</string>
+
+<!--    text untuk splash screen-->
+    <string name="txt_sc">Akun Github</string>
+
+
+    <!--    note searching-->
+    <string name="searching">Pencarian</string>
+    <string name="search_name">Masukkan Nama</string>
+
+    <!--    note tab-->
+    <string name="followers">Pengikut (%d)</string>
+    <string name="followings">Mengikuti (%d)</string>
+
+    <!--    note menu-->
+    <string name="language">Bahasa</string>
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+    <string name="favorites">Favorite</string>
+
+    <!--    note favorit-->
+    <string name="not_favorite">Tidak Ditemukan favorit</string>
+    <string name="remove_successful">Menghapus dari Favorite</string>
+
+    <!--    note reminder-->
+    <string name="reminder">Pengingat</string>
+    <string name="reminder_txt">mari kita temukan akun github yang hebat</string>
+    <string name="switch_reminder_app">aktifkan pengingat</string>
+
+    <!--    note button-->
+    <string name="tb_ad_favorite">Tambahkan ke Favorit</string>
+    <string name="btn_remove_account">Menghapus Akun</string>
+    <string name="btn_ask_remove">menghapus dari Favorit?</string>
+    <string name="btn_do">Lakukan</string>
+    <string name="btn_dont_do">Tidak Lakukan</string>
+
+    <!--    note  Akun-->
+    <string name="name">Nama</string>
+    <string name="html_url">Github Url</string>
+    <string name="repository_person">Repositori (%d)</string>
+    <string name="companies">Perusahaan</string>
+    <string name="location_city">Lokasi</string>
+    <string name="blogger">Blogger</string>
+
+
+    <string name="account_not">Akun tidak ditemukan</string>
+    <string name="account_github">Akun Github</string>
+<string name="unknown">data tidak diketahui</string>
+</resources>
